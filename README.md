@@ -16,9 +16,8 @@
 
 ## 📂 Repositórios em Destaque
 
-- 🎮 **ascii-rpg** – Jogo estilo roguelike em ASCII feito em C
-- 🧠 **algoritmos-em-C** – Repositório com práticas de algoritmos e estruturas de dados
-- 🤖 **projetos-em-python** – Scripts úteis, automações e mini projetos
+- 🎮 **Codex-of-Epistemus** – Jogo estilo roguelike em ASCII feito em C
+- 🧠 **Algoritmos-em-C** – Repositório com práticas de algoritmos e estruturas de dados
 
 ---
 
