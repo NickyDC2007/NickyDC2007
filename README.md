@@ -25,6 +25,3 @@
 
 - ✉️ Email: Nicola.cgoncalves@gmail.com
 
----
-
-> "Código limpo é como poesia: claro, objetivo e elegante."
