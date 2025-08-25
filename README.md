@@ -8,6 +8,8 @@
 🎮 Em andamento: **Codex-of-Epistemus** – roguelike em ASCII desenvolvido em C.  
 📂 Repositórios: **Algoritmos_em_C**, **Algoritmos_em_Python**, **Algoritmos_em_Java**.  
 💬 Interesses: ciência de dados, engenharia de software, programação competitiva e game dev.  
+📫 Me encontre em: [LinkedIn](https://linkedin.com/in/SEU-USUARIO) | [GitHub](https://github.com/NickyDC2007) | [Email](mailto:Nicola.cgoncalves@gmail.com)
+
 
 ---
 
