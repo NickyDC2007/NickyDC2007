@@ -1,9 +1,4 @@
-# 👨‍💻 Nícola Gonçalves  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)  
-[![Lattes](https://img.shields.io/badge/Lattes-00427A?style=for-the-badge&logo=academia&logoColor=white)](https://lattes.cnpq.br/SEU-LINK-AQUI)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nicola.cgoncalves@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)  
+# 👨‍💻 Olá, eu sou Nícola Gonçalves!  
 
 ---
 
@@ -24,20 +19,15 @@
 - **Banco de Dados:** SQL (em aprendizado)  
 - **Metodologias:** Estruturas de dados, lógica de programação e resolução de problemas  
 - **Design & Prototipagem:** Canva  
-- **Softwares de Escritório:** Excel, Word, Teams  
+- **Softwares de Escritório:** Excel, Word, Teams
+- **Idiomas:** Português (nativo), Inglês (intermediário)
 
 ---
 
-## 🌍 Idiomas  
-
-- 🇧🇷 **Português:** Nativo  
-- 🇺🇸 **Inglês:** Intermediário  
-
----
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickyDC2007&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyDC2007&layout=compact&theme=tokyonight)  
 
 ---
