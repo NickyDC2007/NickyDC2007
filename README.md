@@ -16,8 +16,7 @@
 ## 🛠 Tecnologias & Ferramentas  
 
 - **Linguagens de Programação:** C, Python, Java  
-- **Versionamento & Colaboração:** Git, GitHub  
-- **Desenvolvimento de Jogos:** C com mapas em ASCII  
+- **Versionamento & Colaboração:** Git, GitHub   
 - **Banco de Dados:** SQL (em aprendizado)  
 - **Metodologias:** Estruturas de dados, lógica de programação e resolução de problemas  
 - **Design & Prototipagem:** Canva  
