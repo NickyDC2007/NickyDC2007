@@ -17,7 +17,7 @@
 
 - **Linguagens de Programação:** C, Python, Java  
 - **Versionamento & Colaboração:** Git, GitHub   
-- **Banco de Dados:** SQL (em aprendizado)  
+- **Banco de Dados:** SQL
 - **Metodologias:** Estruturas de dados, lógica de programação e resolução de problemas  
 - **Design & Prototipagem:** Canva  
 - **Softwares de Escritório:** Excel, Word, Teams
