@@ -5,8 +5,7 @@
 🎓 Estudante de Ciência da Computação, apaixonado por tecnologia, programação e ciência de dados.  
 🚀 Experiência acadêmica e prática com algoritmos, estruturas de dados e soluções criativas em software.  
 💬 Interesses: desenvolvimento fullstack, ciência de dados, engenharia de software, programação competitiva e IA.  
-🌱 Atualmente explorando **desenvolvimento em C, Python e Java** e **manipulação de dados em Python e R**, além de práticas em versionamento com Git/GitHub. 
-📂 Repositórios: **Algoritmos_em_C**, **Algoritmos_em_Python**, **Algoritmos_em_Java**.  
+🌱 Atualmente explorando **desenvolvimento em C, Python e Java** e **manipulação de dados em Python e R**, além de práticas em versionamento com Git/GitHub.  
 📝 Projetos: **Pokedash (Um dashboard interativo de Pokémon desenvolvido em Python)**, **Cyber Space (Um jogo de puzzles desenvolvido em React)** e **Codex of Epistemus (Um 
 jogo roguelike criado com arte ASCII e desenvolvio em C)**.
 
