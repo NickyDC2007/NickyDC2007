@@ -1,5 +1,6 @@
 # 👨‍💻 Olá, eu sou Nícola Gonçalves!  
 
+
 ---
 
 🎓 Estudante de Ciência da Computação, apaixonado por tecnologia, programação e ciência de dados.  
@@ -13,6 +14,7 @@ jogo roguelike criado com arte ASCII e desenvolvio em C)**.
 
 ---
 
+
 ## 🛠 Tecnologias & Ferramentas  
 
 - **Linguagens de Programação:** C, Python, Java, Java Script  
@@ -24,6 +26,7 @@ jogo roguelike criado com arte ASCII e desenvolvio em C)**.
 - **Idiomas:** Português (nativo), Inglês (intermediário)
 
 ---
+
 
 ## 📊 Estatísticas do GitHub  
 
