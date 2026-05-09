@@ -22,7 +22,7 @@ jogo roguelike criado com arte ASCII e desenvolvio em C)**.
 - **Banco de Dados:** SQL
 - **Metodologias:** Estruturas de dados, lógica de programação e resolução de problemas  
 - **Design & Prototipagem:** Canva, Figma  
-- **Softwares de Escritório:** Excel, Word, Teams
+- **Softwares de Escritório:** Excel, Word, Trello, Teams
 - **Idiomas:** Português (nativo), Inglês (intermediário)
 
 ---
